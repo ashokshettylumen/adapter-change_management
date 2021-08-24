@@ -22,9 +22,9 @@
         },
         "password": {
           "type": "string",
-          "default": "rVPaZ7Yz2mXx",
+          "default": "XUdPDiz1x6jL",
           "examples": [
-            "rVPaZ7Yz2mXx"
+            "XUdPDiz1x6jL"
           ]
         }
       },
